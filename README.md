@@ -105,5 +105,5 @@ Execute the program
 
 ~~~
 # OUPUT
-![gituplogo](timetable.png)
+![TIMETABLE](timetable.png)
 
